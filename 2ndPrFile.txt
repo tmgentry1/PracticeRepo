@@ -1,1 +1,2 @@
 Another file, this one is in a new branch.
+Added a line.
